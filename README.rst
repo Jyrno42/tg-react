@@ -30,3 +30,5 @@ Features
 --------
 
 * TODO
+
+.. List features and link to documentation for their usage
