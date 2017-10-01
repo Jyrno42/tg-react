@@ -29,9 +29,20 @@ Then use it in a project::
 Features
 --------
 
-* TODO
+* Generic webpack constant generation
+* URL flattening
+* NodeJS compatible JavaScriptCatalog_
+* Generic accounts API(s):
 
-.. TODO: List features and link to documentation for more information
+  - Signup
+  - Login
+  - Logout
+  - Set active language (incl. customized LocaleMiddleware)
+  - Forgot password
+
+For more information about each feature see the documentation.
+
+.. _JavaScriptCatalog: https://docs.djangoproject.com/en/1.11/topics/i18n/translation/#django.views.i18n.JavaScriptCatalog
 
 
 Changelog

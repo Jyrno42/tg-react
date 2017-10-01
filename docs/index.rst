@@ -13,7 +13,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   getting_started
+   introduction
+   features
+   settings
    tips
    contributing
    modules
